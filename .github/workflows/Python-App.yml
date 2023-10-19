@@ -20,6 +20,6 @@ jobs:
         run: pip install -r requirements.txt
 
       - name: Deploy app
-        run: python app.py
+        run: app.py
           pip install pytest
           
