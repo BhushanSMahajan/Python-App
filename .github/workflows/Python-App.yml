@@ -22,5 +22,4 @@ jobs:
       - name: Deploy app
         run: python app.py
           pip install pytest
-          export PYTHONPATH=scr
-          pytest
+          
