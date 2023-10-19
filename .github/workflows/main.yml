@@ -23,5 +23,5 @@ jobs:
 
     - name: Deploy to Server
       run: |
-        pip install pytest
+    
         echo "Deployment command for Python goes here"
