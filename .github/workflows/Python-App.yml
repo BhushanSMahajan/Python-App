@@ -2,7 +2,7 @@ name: Deploy Hello World App
 
 on:
   push:
-    branches: [ main ]
+    branches: Python-App
 
 jobs:
   deploy:
